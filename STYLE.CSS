@@ -1,0 +1,18 @@
+
+body{
+    text-align: center;
+  }
+
+
+.logo{
+    position: absolute;
+    top: 150px;
+    width: 300px;
+    text-align: center;
+}
+
+.form1{
+    position: absolute;
+    top: 270px;
+    margin: 0 auto;
+}
